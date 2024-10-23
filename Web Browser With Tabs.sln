@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Browser With Tabs", "Web Browser With Tabs\Web Browser With Tabs.csproj", "{7D9CF227-5B51-4DDF-BBB7-9440E04BAAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9CF227-5B51-4DDF-BBB7-9440E04BAAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9CF227-5B51-4DDF-BBB7-9440E04BAAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9CF227-5B51-4DDF-BBB7-9440E04BAAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9CF227-5B51-4DDF-BBB7-9440E04BAAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853913F4-B633-4E17-9EEC-57A67B56A737}
+	EndGlobalSection
+EndGlobal
